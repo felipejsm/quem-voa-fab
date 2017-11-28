@@ -8,3 +8,6 @@ My first attempt will be with Python :)
 Initial source:   
 - http://stanford.io/2Aeoek5   
 - http://bit.ly/2j0lzkg   
+
+# Midia   
+- https://glo.bo/2AfnWHw  
